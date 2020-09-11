@@ -3,7 +3,7 @@
     src: url("fonts/B612-Regular.ttf");
 }
 *{
-    box-sizing: border-box;
+    box-sizing: content-box;
     margin: 0;
     padding: 0;
     font-family: B612, serif;
@@ -27,7 +27,8 @@ section{
     margin-top: 40px;
 }
 .mainProf img{
-    border-radius: 10%;
+    border-radius: 50%;
+    margin: 10px 0;
 }
 .skills img{
     border: 4px solid #EEEEEE;
