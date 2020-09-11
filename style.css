@@ -37,6 +37,7 @@ section{
     height: 5cm;
     border-radius: 5px;
     transition: border-color .5s;
+    cursor: pointer;
 }
 .skills img:hover{
     border-color: #777777;
