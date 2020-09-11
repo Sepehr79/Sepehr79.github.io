@@ -50,7 +50,12 @@ footer{
 }
 .links{
     position: absolute;
-    top: -50px;
+    width: 100%;
+    text-align: center;
+}
+.links img{
+    width: 30px;
+    height: 30px;
 }
 footer .footerText{
     width: 100%;
