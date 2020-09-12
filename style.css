@@ -8,6 +8,11 @@
     padding: 0;
     font-family: B612, serif;
 }
+h1, h2, h3, h4, h5{
+    text-align: center;
+    font-weight: bold;
+    margin: 10px;
+}
 header{
     background-image: url("images/796843.png");
     width: 100%;
@@ -18,6 +23,43 @@ header{
     text-align: center;
     margin-top: 20px;
     font-family: serif;
+}
+.introduce{
+    line-height: 30px;
+    text-indent: 5px;
+    text-align: justify;
+}
+@media screen and (max-width: 2000px){
+    .introduce{
+        padding: 0 400px;
+    }
+}
+@media screen and (max-width: 1500px){
+    .introduce{
+        padding: 0 200px;
+    }
+}
+@media screen and (max-width: 1000px){
+    .introduce{
+        padding: 0 100px;
+    }
+}
+@media screen and (max-width: 500px){
+    .introduce{
+        padding: 0 50px;
+    }
+}
+.introduce ul{
+    margin: 20px 0;
+    list-style-type: none;
+}
+ul img{
+    width: 20px;
+    height: 20px;
+    float: left;
+}
+ul li{
+    margin: 20px;
 }
 section{
     text-align: center;
