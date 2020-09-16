@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa5988ea-a841-4436-acd4-87567afd663c" name="Default Changelist" comment="" />
+    <list default="true" id="fa5988ea-a841-4436-acd4-87567afd663c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,10 +47,30 @@
       <workItem from="1599883998750" duration="2711000" />
       <workItem from="1599912589430" duration="5375000" />
       <workItem from="1599924331974" duration="181000" />
+      <workItem from="1599927764585" duration="848000" />
+      <workItem from="1599971861587" duration="881000" />
+      <workItem from="1600070384747" duration="1279000" />
+      <workItem from="1600085144539" duration="16000" />
+      <workItem from="1600106434674" duration="65000" />
+      <workItem from="1600242934729" duration="721000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="589" y="235" width="732" height="653" key="#Inspections" timestamp="1600070902927">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="589" y="235" width="732" height="653" key="#Inspections/0.27.1920.1053@0.27.1920.1053" timestamp="1600070902927" />
+    <state x="743" y="311" width="424" height="500" key="FileChooserDialogImpl" timestamp="1600106494188">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="311" width="424" height="500" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1600106494188" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1599927778064">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1599927778064" />
   </component>
 </project>

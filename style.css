@@ -6,6 +6,8 @@
     box-sizing: content-box;
     margin: 0;
     padding: 0;
+}
+.mainProf, .introduce{
     font-family: B612, serif;
 }
 h1, h2, h3, h4, h5{
@@ -25,6 +27,9 @@ header{
     font-family: serif;
 }
 .introduce{
+    word-break: break-word;
+    hyphens: manual;
+    -moz-hyphens: manual;
     line-height: 30px;
     text-indent: 5px;
     text-align: justify;
@@ -108,4 +113,15 @@ footer .footerText{
     position: absolute;
     top: 80%;
     text-align: center;
+}
+
+.Terminal{
+    text-align: left;
+    background-color: #333333;
+    border: 2px solid black;
+    color: white;
+    margin: 20px auto;
+    padding: 0;
+    max-width: 1000px;
+    height: 100px;
 }
