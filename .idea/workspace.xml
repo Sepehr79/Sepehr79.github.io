@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa5988ea-a841-4436-acd4-87567afd663c" name="Default Changelist" comment="added typed.js with some changes in footer">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +76,7 @@
       <workItem from="1600242934729" duration="721000" />
       <workItem from="1606070557345" duration="4049000" />
       <workItem from="1606111056520" duration="1971000" />
-      <workItem from="1606114529473" duration="2977000" />
+      <workItem from="1606114529473" duration="3929000" />
     </task>
     <task id="LOCAL-00001" summary="added typed.js with some changes in footer">
       <created>1606116839977</created>
@@ -119,7 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606117446390</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added typed.js with some changes in footer">
+      <created>1606117561734</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606117561734</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added typed.js with some changes in footer">
+      <created>1606117626308</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606117626308</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,14 +165,14 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="743" y="311" width="424" height="500" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1600106494188" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606117377168">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606117636507">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606117377168" />
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606117343875">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606117636507" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606117617113">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1606117343875" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1606117617113" />
     <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1599927778064">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
