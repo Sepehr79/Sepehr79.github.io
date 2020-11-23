@@ -1,36 +1,169 @@
-const text = ["Talk is cheap. Show me the code.",
-    "Programs must be written for people to read, and only incidentally for machines to execute.",
-    "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
-    "I'm not a great programmer; I'm just a good programmer with great habits.",
-    "Truth can only be found in one place: the code."]
-var paper = null
-var textIndex = 0
-var sentenceIndex = 0
-var wrote = ""
+function writeText() {
+    var typed = new Typed('#typed', {
+        /**
+         * @property {array} strings strings to be typed
+         * @property {string} stringsElement ID of element containing string children
+         */
+        strings: [
+            'Talk is cheap. Show me the code.',
+            'I\'m not a great programmer; I\'m just a good programmer with great habits.',
+            'Truth can only be found in one place: the code.',
+            'How you look at it is pretty much how you\'ll see it'
+        ],
+        stringsElement: null,
 
+        /**
+         * @property {number} typeSpeed type speed in milliseconds
+         */
+        typeSpeed: 70,
 
-async function writeText(){
-    paper = document.getElementById("paper")
+        /**
+         * @property {number} startDelay time before typing starts in milliseconds
+         */
+        startDelay: 0,
 
-    var t = setInterval(function (){
-        wrote += text[sentenceIndex][textIndex]
-        paper.innerText = wrote
-        if (textIndex < text[sentenceIndex].length){
-            textIndex += 1
-        }else{
-            wrote = ""
-            textIndex = 0
-            sentenceIndex++
-            sleep(3000)
-            if (sentenceIndex === text.length - 1){
-                sentenceIndex = 0
-            }
+        /**
+         * @property {number} backSpeed backspacing speed in milliseconds
+         */
+        backSpeed: 0,
+
+        /**
+         * @property {boolean} smartBackspace only backspace what doesn't match the previous string
+         */
+        smartBackspace: true,
+
+        /**
+         * @property {boolean} shuffle shuffle the strings
+         */
+        shuffle: false,
+
+        /**
+         * @property {number} backDelay time before backspacing in milliseconds
+         */
+        backDelay: 1500,
+
+        /**
+         * @property {boolean} fadeOut Fade out instead of backspace
+         * @property {string} fadeOutClass css class for fade animation
+         * @property {boolean} fadeOutDelay Fade out delay in milliseconds
+         */
+        fadeOut: false,
+        fadeOutClass: 'typed-fade-out',
+        fadeOutDelay: 500,
+
+        /**
+         * @property {boolean} loop loop strings
+         * @property {number} loopCount amount of loops
+         */
+        loop: true,
+        loopCount: Infinity,
+
+        /**
+         * @property {boolean} showCursor show cursor
+         * @property {string} cursorChar character for cursor
+         * @property {boolean} autoInsertCss insert CSS for cursor and fadeOut into HTML <head>
+         */
+        showCursor: true,
+        cursorChar: '|',
+        autoInsertCss: true,
+
+        /**
+         * @property {string} attr attribute for typing
+         * Ex: input placeholder, value, or just HTML text
+         */
+        attr: null,
+
+        /**
+         * @property {boolean} bindInputFocusEvents bind to focus and blur if el is text input
+         */
+        bindInputFocusEvents: false,
+
+        /**
+         * @property {string} contentType 'html' or 'null' for plaintext
+         */
+        contentType: 'text',
+
+        /**
+         * Before it begins typing
+         * @param {Typed} self
+         */
+        onBegin: (self) => {
+        },
+
+        /**
+         * All typing is complete
+         * @param {Typed} self
+         */
+        onComplete: (self) => {
+        },
+
+        /**
+         * Before each string is typed
+         * @param {number} arrayPos
+         * @param {Typed} self
+         */
+        preStringTyped: (arrayPos, self) => {
+        },
+
+        /**
+         * After each string is typed
+         * @param {number} arrayPos
+         * @param {Typed} self
+         */
+        onStringTyped: (arrayPos, self) => {
+        },
+
+        /**
+         * During looping, after last string is typed
+         * @param {Typed} self
+         */
+        onLastStringBackspaced: (self) => {
+        },
+
+        /**
+         * Typing has been stopped
+         * @param {number} arrayPos
+         * @param {Typed} self
+         */
+        onTypingPaused: (arrayPos, self) => {
+        },
+
+        /**
+         * Typing has been started after being stopped
+         * @param {number} arrayPos
+         * @param {Typed} self
+         */
+        onTypingResumed: (arrayPos, self) => {
+        },
+
+        /**
+         * After reset
+         * @param {Typed} self
+         */
+        onReset: (self) => {
+        },
+
+        /**
+         * After stop
+         * @param {number} arrayPos
+         * @param {Typed} self
+         */
+        onStop: (arrayPos, self) => {
+        },
+
+        /**
+         * After start
+         * @param {number} arrayPos
+         * @param {Typed} self
+         */
+        onStart: (arrayPos, self) => {
+        },
+
+        /**
+         * After destroy
+         * @param {Typed} self
+         */
+        onDestroy: (self) => {
         }
-    }, 100)
+    });
 }
-
-function sleep(delay) {
-    var start = new Date().getTime();
-    while (new Date().getTime() < start + delay);
-}
-

@@ -125,3 +125,7 @@ footer .footerText{
     max-width: 1000px;
     height: 100px;
 }
+
+#typed-strings, #typed, #span{
+    float: left;
+}
