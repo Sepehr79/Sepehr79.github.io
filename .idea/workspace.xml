@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa5988ea-a841-4436-acd4-87567afd663c" name="Default Changelist" comment="added typed.js with some changes in footer">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +75,7 @@
       <workItem from="1600242934729" duration="721000" />
       <workItem from="1606070557345" duration="4049000" />
       <workItem from="1606111056520" duration="1971000" />
-      <workItem from="1606114529473" duration="2647000" />
+      <workItem from="1606114529473" duration="2977000" />
     </task>
     <task id="LOCAL-00001" summary="added typed.js with some changes in footer">
       <created>1606116839977</created>
@@ -99,7 +98,28 @@
       <option name="project" value="LOCAL" />
       <updated>1606117083983</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added typed.js with some changes in footer">
+      <created>1606117299955</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606117299955</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added typed.js with some changes in footer">
+      <created>1606117373458</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606117373458</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added typed.js with some changes in footer">
+      <created>1606117446390</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606117446390</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
