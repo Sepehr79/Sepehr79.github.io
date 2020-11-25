@@ -1,4 +1,6 @@
-function writeText() {
+
+
+$(function (){
     var typed = new Typed('#typed', {
         /**
          * @property {array} strings strings to be typed
@@ -166,4 +168,4 @@ function writeText() {
         onDestroy: (self) => {
         }
     });
-}
+})
