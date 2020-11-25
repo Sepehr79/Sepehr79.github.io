@@ -121,7 +121,7 @@ footer .footerText{
     border: 2px solid black;
     color: white;
     margin: 20px auto;
-    padding: 100px;
-    height: 200px;
+    padding: 0;
+    height: 40px;
     max-width: 1000px;
 }
