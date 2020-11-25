@@ -8,7 +8,7 @@ $(function (){
          */
         strings: [
             'Talk is cheap. Show me the code.',
-            'I\'m not a great programmer; I\'m just a good programmer with great habits.',
+            'I\'m not a great programmer; I\'m just a good programmer.',
             'Truth can only be found in one place: the code.',
             'How you look at it is pretty much how you\'ll see it'
         ],
