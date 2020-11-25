@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5988ea-a841-4436-acd4-87567afd663c" name="Default Changelist" comment="padding changed">
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="fa5988ea-a841-4436-acd4-87567afd663c" name="Default Changelist" comment="some changed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +80,7 @@
       <workItem from="1606114529473" duration="3929000" />
       <workItem from="1606118516180" duration="73000" />
       <workItem from="1606150145935" duration="6000" />
-      <workItem from="1606281581220" duration="2701000" />
+      <workItem from="1606281581220" duration="2738000" />
     </task>
     <task id="LOCAL-00001" summary="added typed.js with some changes in footer">
       <created>1606116839977</created>
@@ -189,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606284108762</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="some changed">
+      <created>1606284342347</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1606284342348</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +219,8 @@
     <MESSAGE value="change text" />
     <MESSAGE value="byg fixes" />
     <MESSAGE value="padding changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="padding changed" />
+    <MESSAGE value="some changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="some changed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="589" y="235" width="732" height="653" key="#Inspections" timestamp="1600070902927">
@@ -225,14 +231,14 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="743" y="311" width="424" height="500" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1600106494188" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606284112242">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606284346417">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606284112242" />
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606284097768">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606284346417" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606284327286">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1606284097768" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1606284327286" />
     <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1599927778064">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
