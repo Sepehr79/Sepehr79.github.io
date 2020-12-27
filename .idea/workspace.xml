@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5988ea-a841-4436-acd4-87567afd663c" name="Default Changelist" comment="footer improved">
+    <list default="true" id="fa5988ea-a841-4436-acd4-87567afd663c" name="Default Changelist" comment="programing languages link">
+      <change afterPath="$PROJECT_DIR$/images/repeatImage.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +51,12 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\NP-soft\WebstormProjects\Sepehr79.github.io" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\NP-soft\WebstormProjects\Sepehr79.github.io\lib" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\NP-soft\WebstormProjects\Sepehr79.github.io\images" />
+      <recent name="C:\Users\NP-soft\WebstormProjects\Sepehr79.github.io" />
       <recent name="C:\Users\NP-soft\WebstormProjects\Sepehr79.github.io\lib" />
     </key>
   </component>
@@ -89,7 +92,9 @@
       <workItem from="1608996455477" duration="394000" />
       <workItem from="1608996875610" duration="1775000" />
       <workItem from="1608998710442" duration="1846000" />
-      <workItem from="1609000699661" duration="634000" />
+      <workItem from="1609000699661" duration="959000" />
+      <workItem from="1609075187784" duration="1395000" />
+      <workItem from="1609076983004" duration="637000" />
     </task>
     <task id="LOCAL-00001" summary="added typed.js with some changes in footer">
       <created>1606116839977</created>
@@ -217,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609000338971</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="programing languages link">
+      <created>1609001443743</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1609001443743</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,16 +257,21 @@
     <MESSAGE value="some changed" />
     <MESSAGE value="height increased" />
     <MESSAGE value="footer improved" />
-    <option name="LAST_COMMIT_MESSAGE" value="footer improved" />
+    <MESSAGE value="programing languages link" />
+    <option name="LAST_COMMIT_MESSAGE" value="programing languages link" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1609000354301">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1609001447266">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609000354301" />
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609000313615">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609001447266" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609001413951">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1609000313615" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1609001413951" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1609077127209">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1609077127209" />
   </component>
 </project>

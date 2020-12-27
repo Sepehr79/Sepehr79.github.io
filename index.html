@@ -10,67 +10,69 @@
     <script src="script.js" lang="javascript"></script>
 </head>
 <body>
-    <header>
+    <div id="backImage">
+        <header>
 
-    </header>
-    <nav>
+        </header>
+        <nav>
 
-    </nav>
-    <article>
-        <section id="prof">
-            <h1 class="header" style="font-size: 24px">About me</h1>
-            <div class="mainProf">
-                <img align="center" src="images/sepehr.jpg" alt="my image"><br>
-                <p>Mohammad sepehr mollaei, <br>interested in programming and learning new things!</p>
+        </nav>
+        <article>
+            <section id="prof">
+                <h1 class="header" style="font-size: 24px">About me</h1>
+                <div class="mainProf">
+                    <img align="center" src="images/sepehr.jpg" alt="my image"><br>
+                    <p>Mohammad sepehr mollaei, <br>interested in programming and learning new things!</p>
+                </div>
+            </section>
+            <section class="introduce">
+                    <h4 style="font-size: 22px">My programming story</h4>
+                    <p>It all started when I started programming C. I was very interested in problem solving and algorithms that
+                        made programming attractive to me. But working with the C language had created challenges for me: </p>
+                    <ul>
+                        <img src="images/check.png"><li>
+                            Frequent errors resulting from working with pointers
+                        </li>
+                        <img src="images/check.png"><li>
+                            Many of the functions that were not a problem in Windows encountered errors in Linux. This is because it is not platform independent.
+                        </li>
+                        <img src="images/check.png"><li>
+                            Relatively limited libraries that forced us to implement some complex algorithms
+                        </li>
+                        <img src="images/check.png"><li>
+                            Functional programming and its specific problems
+                        </li>
+                    </ul>
+                <p>In addition to solving my previous problems, the Java language introduced me to object-oriented
+                    programming thinking, which gives the programmer something completely new.</p>
+            </section>
+            <section class="introduce">
+                <div class="Terminal">
+                    <code>
+                        <h3 style="text-align: center;margin: 0;padding: 0;">Why programming?</h3><hr >
+                        <span style="color: greenyellow">sepehr@sepehr-N56JN</span>:<span style="color: deepskyblue">~</span>$ <span id="typed"></span>
+                        <div id="typed-strings"></div>
+                    </code>
+                </div>
+            </section>
+            <section>
+                <h2>Skills</h2>
+                <div class="skills">
+                    <a href="https://www.java.com/en/"><img src="images/java-eps-vector-logo.png" alt="Java"></a>
+                    <a href="https://kotlinlang.org/"><img src="images/kotlin.png" alt="kotlin"></a><br>
+                    <a href="https://www.javascript.com/"><img src="images/JavaScript_logo_2.svg.png" alt="JS"></a>
+                    <a href="https://www.programiz.com/c-programming"><img src="images/c-programming.png" alt="C"></a><br>
+                    <a href="https://en.wikipedia.org/wiki/SQL"><img src="images/Azure-SQL-Database.png" alt="SQL"></a>
+                    <a href="https://git-scm.com/"><img src="images/Git-Icon-1788C.png" alt="Git"></a>
+                </div>
+            </section>
+        </article>
+        <footer>
+            <div class="links">
+                <a href="https://github.com/Sepehr79/"><img src="images/github-icon-white-6.png"></a>
             </div>
-        </section>
-        <section class="introduce">
-                <h4 style="font-size: 22px">My programming story</h4>
-                <p>It all started when I started programming C. I was very interested in problem solving and algorithms that
-                    made programming attractive to me. But working with the C language had created challenges for me: </p>
-                <ul>
-                    <img src="images/check.png"><li>
-                        Frequent errors resulting from working with pointers
-                    </li>
-                    <img src="images/check.png"><li>
-                        Many of the functions that were not a problem in Windows encountered errors in Linux. This is because it is not platform independent.
-                    </li>
-                    <img src="images/check.png"><li>
-                        Relatively limited libraries that forced us to implement some complex algorithms
-                    </li>
-                    <img src="images/check.png"><li>
-                        Functional programming and its specific problems
-                    </li>
-                </ul>
-            <p>In addition to solving my previous problems, the Java language introduced me to object-oriented
-                programming thinking, which gives the programmer something completely new.</p>
-        </section>
-        <section class="introduce">
-            <div class="Terminal">
-                <code>
-                    <h3 style="text-align: center;margin: 0;padding: 0;">Why programming?</h3><hr >
-                    <span style="color: greenyellow">sepehr@sepehr-N56JN</span>:<span style="color: deepskyblue">~</span>$ <span id="typed"></span>
-                    <div id="typed-strings"></div>
-                </code>
-            </div>
-        </section>
-        <section>
-            <h2>Skills</h2>
-            <div class="skills">
-                <a href="https://www.java.com/en/"><img src="images/java-eps-vector-logo.png" alt="Java"></a>
-                <a href="https://kotlinlang.org/"><img src="images/kotlin.png" alt="kotlin"></a><br>
-                <a href="https://www.javascript.com/"><img src="images/JavaScript_logo_2.svg.png" alt="JS"></a>
-                <a href="https://www.programiz.com/c-programming"><img src="images/c-programming.png" alt="C"></a><br>
-                <a href="https://en.wikipedia.org/wiki/SQL"><img src="images/Azure-SQL-Database.png" alt="SQL"></a>
-                <a href="https://git-scm.com/"><img src="images/Git-Icon-1788C.png" alt="Git"></a>
-            </div>
-        </section>
-    </article>
-    <footer>
-        <div class="links">
-            <a href="https://github.com/Sepehr79/"><img src="images/github-icon-white-6.png"></a>
-        </div>
-        <span class="footerText">made with &nbsp;<span id="heart" style="color: red">&#10084;</span> </span>
-    </footer>
+            <span class="footerText">made with &nbsp;<span id="heart" style="color: red">&#10084;</span> </span>
+        </footer>
+    </div>
 </body>
 </html>
