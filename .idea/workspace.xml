@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5988ea-a841-4436-acd4-87567afd663c" name="Default Changelist" comment="skills change to (what am i doing now?)" />
+    <list default="true" id="fa5988ea-a841-4436-acd4-87567afd663c" name="Default Changelist" comment="spring frame work">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,6 +95,7 @@
       <workItem from="1609076983004" duration="685000" />
       <workItem from="1609509515244" duration="888000" />
       <workItem from="1609510615910" duration="400000" />
+      <workItem from="1612530482192" duration="701000" />
     </task>
     <task id="LOCAL-00001" summary="added typed.js with some changes in footer">
       <created>1606116839977</created>
@@ -247,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609510720230</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="spring frame work">
+      <created>1612530610132</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1612530610133</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,17 +289,18 @@
     <MESSAGE value="programing languages link" />
     <MESSAGE value="background changed" />
     <MESSAGE value="skills change to (what am i doing now?)" />
-    <option name="LAST_COMMIT_MESSAGE" value="skills change to (what am i doing now?)" />
+    <MESSAGE value="spring frame work" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring frame work" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1609510729518">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1612530614981">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1609510729518" />
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609510700674">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612530614981" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612531247545">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1609510700674" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1612531247545" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1609077127209">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
