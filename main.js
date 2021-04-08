@@ -1,7 +1,5 @@
 $(function (){
 
-    $("#mode").prop("checked", true)
-
     $("#mode").change(function (){
         let tag = document.getElementsByTagName("section")
         let footer = document.getElementsByTagName("footer").item(0)
