@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa5988ea-a841-4436-acd4-87567afd663c" name="Default Changelist" comment="what i did before?">
-      <change afterPath="$PROJECT_DIR$/images/myimg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style3.css" beforeDir="false" afterPath="$PROJECT_DIR$/style3.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +98,9 @@
       <workItem from="1609509515244" duration="888000" />
       <workItem from="1609510615910" duration="400000" />
       <workItem from="1612530482192" duration="1801000" />
+      <workItem from="1617876194405" duration="1778000" />
+      <workItem from="1617878016752" duration="1774000" />
+      <workItem from="1617879841310" duration="1280000" />
     </task>
     <task id="LOCAL-00001" summary="added typed.js with some changes in footer">
       <created>1606116839977</created>
@@ -306,13 +310,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612531268691" />
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612531247545">
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617876722367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1612531247545" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1609077127209">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1609077127209" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1617876722367" />
   </component>
 </project>
