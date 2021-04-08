@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa5988ea-a841-4436-acd4-87567afd663c" name="Default Changelist" comment="what i did before?" />
+    <list default="true" id="fa5988ea-a841-4436-acd4-87567afd663c" name="Default Changelist" comment="what i did before?">
+      <change afterPath="$PROJECT_DIR$/style3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/demos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/typed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

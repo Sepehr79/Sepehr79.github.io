@@ -1,16 +1,16 @@
 
 
 $(function (){
-    var typed = new Typed('#typed', {
+    const typed = new Typed('#typed', {
         /**
          * @property {array} strings strings to be typed
          * @property {string} stringsElement ID of element containing string children
          */
         strings: [
-            'Talk is cheap. Show me the code.',
-            'I\'m not a great programmer; I\'m just a good programmer.',
-            'Truth can only be found in one place: the code.',
-            'How you look at it is pretty much how you\'ll see it'
+            '\"Talk is cheap. Show me the code.\" ― Linus Torvalds ',
+            '\"when you don\'t create things, you become defined by your tastes rather than ability. your tastes only narrow & exclude people. so create.\" ― Why The Lucky Stiff',
+            '\"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.\" ― Martin Fowler ',
+            '\"I\'m not a great programmer; I\'m just a good programmer with great habits.\" ― Kent Beck '
         ],
         stringsElement: null,
 
