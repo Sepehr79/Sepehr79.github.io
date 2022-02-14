@@ -3,6 +3,11 @@
     src: url("fonts/B612-Regular.ttf");
 }
 
+@font-face {
+    font-family: Inconsolata;
+    src: url("fonts/Inconsolata-Black.ttf");
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -168,6 +173,10 @@ section{
     }
 }
 
+.introduce{
+    text-align: justify;
+}
+
 .introduce ul{
     list-style-type: none;
 }
@@ -188,14 +197,12 @@ ul img{
 }
 
 code{
-    display: block;
-    height: 120px;
+    height: 60px;
 }
 
 code span{
-    font-family: none, serif;
-    font-weight: bold;
-    font-size: 20px;
+    font-family: Inconsolata;
+    font-size: 18px;
 }
 
 section h2{
@@ -227,9 +234,6 @@ footer{
     color: white;
     text-align: center;
     border-top: darkslategrey dashed 4px;
-}
-
-.footer-container{
 }
 
 .footer-container * {
