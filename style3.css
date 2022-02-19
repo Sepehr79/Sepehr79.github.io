@@ -153,8 +153,17 @@ ul img{
     float: left;
 }
 
+.os-icons *{
+    float: right;
+    width: 15;
+    height: 15;
+    margin: 2px 5px;
+}
+
 .terminal{
     height: 250px;
+    border: 2px solid #555555;
+    border-radius: 3px;
 }
 
 .terminal h3{
